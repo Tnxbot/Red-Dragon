@@ -11,8 +11,11 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'd5898ba0f79a',
 }
 
-global.alivemsg = `📤Hello This is KNETBOT😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `📥Hello This is KNETBOT😇
+🤷‍♀️How can I help you?😉
+
+
+` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -30,7 +33,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['+6289508996342'] // owner number
-global.ownername = "Mingyu" // owner name
+global.ownername = "MINGYU&DSJ" // owner name
 global.ytname = "Youtube: knetent" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "Indonesia, Batam, Lubuk Baja" // location
@@ -52,7 +55,7 @@ global.ownertag = '+6289508996342' //your tag number
 global.botname = 'KNET - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "KNET-BOT" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
+global.dragonemoji = '🐉' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
@@ -70,8 +73,8 @@ global.mess = {
     owner: 'Only Owner can use this!😉',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    bot: 'This Feature Is Only For Bot!',
+    wait: '⚙️ Loading',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     linkm: 'Where is the link?',
