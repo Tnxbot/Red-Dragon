@@ -12,9 +12,9 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📥Hello This is KNETBOT😇
-🤷‍♀️How can I help you?😉
-
-
+🤷‍♀️How can I help you?😉`
+`FOLLOW INSTAGRAM
+@dammingyu
 ` //Costomize Alive Message (type your message in `` )
 
 
