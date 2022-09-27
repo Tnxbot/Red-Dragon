@@ -51,7 +51,7 @@ global.owner = ['+6289508996342']
 global.ownertag = '+6289508996342' //your tag number
 global.botname = 'KNET - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "KNET BOT" // sticker author
+global.author = "KNETBOT" // sticker author
 global.dragonemoji = '🐉' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
