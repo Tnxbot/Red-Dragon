@@ -8,7 +8,7 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'd5898ba0f79a',
+	'https://zenzapis.xyz': 'your key',
 }
 
 global.alivemsg = `📤Hello This is KNETBOT😇
